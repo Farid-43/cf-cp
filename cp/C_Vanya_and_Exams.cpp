@@ -52,7 +52,7 @@ void uttor()
 int main()
 {
     FAST;
-    // int T;		cin >> T;	while(T--)
     uttor();
+
     return 0;
 }
