@@ -64,5 +64,6 @@ int main()
     cin >> T;
     while (T--)
         uttor();
+
     return 0;
 }
